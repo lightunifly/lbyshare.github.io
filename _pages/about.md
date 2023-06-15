@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Mincong Wu. And I'm a fourth-year physical PhD student in Huazhong University of Science and Technology (HUST). My current research area is biophysics, specially about enhanced sampling of protein folding. We use deep learning or some other dimension reduce method to find some collective variables to do enhanced sample and help protein fold into its native state. My advisor is Changjun Chen. Although my first research area is AMO about trapped ions and change the direction and advisor in my second year.
 
-A data-driven personal website
-======
-This is a page used to test.
+This website is used to collect notes and ideas. I hope this website will be helpful for anyone who comes across here. Any my biggest interest is to thinking and talking about valuable theoretical and philosophical questions.
+
+My current email is mincong_wu@hust.edu.cn. Please feel free to reach out any time.
+
