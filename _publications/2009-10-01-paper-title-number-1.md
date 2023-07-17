@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhanced sampling in explicit solvent by deep learning module in FSATOOL"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We implement the explicit solvent model of smooth particle mesh ewald method (SPME) on both CPU and GPU in our own software FSATOOL. And try to use deep learning method to reduce the high dimensional conformational space to latent space with several collective variables (CVs) to analysis the molecular simulation trajectories. Then use the CVs to do enhanced sampling and help protein fold into their native states.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
